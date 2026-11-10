@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.impar{
+    background-color: pink;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#dois{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.two{
+    font-size: 24px;
+}
+
+#tres{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
