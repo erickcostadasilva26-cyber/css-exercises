@@ -7,6 +7,8 @@ body {
   width: 400px;
   background: white;
   margin: 16px auto;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .title,
@@ -17,4 +19,25 @@ body {
 
 button {
   background: white;
+  padding: 12px;
+  border: none;
+}
+
+
+.title{
+  padding: 8px;
+  margin: 0;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+
+.content{
+  padding: 8px 16px;
+  margin-bottom: 8px;
+}
+
+
+.button-container{
+  padding: 8px;
 }
